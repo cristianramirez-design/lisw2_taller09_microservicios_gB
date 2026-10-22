@@ -3,7 +3,7 @@
 **Laboratorio de Ingeniería de Software II – Universidad del Cauca (2026.2)**
 Proyecto de curso: *Banco de Preguntas Saber Pro* · Spring Boot 3.3.4 · REST · RabbitMQ · Postman
 
-Equipo (grupo B): Cristian Camilo Ramírez Camacho · Juliana Andrea Salas Tapia · Víctor Manuel Ortiz Rojas
+Equipo (grupo B): Cristian Camilo Ramírez Camacho · Santiago Martinez Grajales · Andres Felipe Florin Burbano
 
 ## Microservicios
 
